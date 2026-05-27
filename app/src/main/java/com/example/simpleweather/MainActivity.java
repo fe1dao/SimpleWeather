@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView tvCity, tvTemperature, tvWeather, tvHumidity, tvWind;
 
     // 需要到 https://openweathermap.org/ 注册获取免费API密钥
-    private static final String API_KEY = "d79050fde5e711291df116924298dd96";
+    private static final String API_KEY = "your_right_api";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
